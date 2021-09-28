@@ -1,4 +1,4 @@
-# Planteamiento de requerimientos proyecto final
+# Planteamiento de requerimientos
 
 ## Integrantes
 ### 1) Daniel Felipe Camargo Roa - 20172020078
