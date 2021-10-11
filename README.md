@@ -172,6 +172,6 @@ Es un proceso en el que se aplican de manera regular un conjunto de buenas prác
 
 ## Extensiones y Librerias Usadas
 
-#### Pandas
-#### matplotlib
-#### random
+#### [Pandas]:https://pandas.pydata.org/docs/
+#### [Matplotlib]:https://matplotlib.org/
+#### [Random]:https://docs.python.org/3/library/random.html
