@@ -176,8 +176,10 @@ Es un proceso en el que se aplican de manera regular un conjunto de buenas prác
 #### Matplotlib
 #### Random
 
-## Diagrama de Casos de uso
+## Diagramas
+
+# Diagrama de Casos de uso
 ![Casos](https://github.com/DanielFelipeRoa/FinalFIS/blob/main/Casos%20de%20uso%20Dataset.png)
 
-## Diagrama de Clases
+# Diagrama de Clases
 ![Clases](https://github.com/DanielFelipeRoa/FinalFIS/blob/main/Diagrama%20de%20clases%20DataSet.png)
