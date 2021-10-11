@@ -15,7 +15,8 @@ https://www.datos.gov.co/Econom-a-y-Finanzas/Precios-de-Combustibles-MinEnerg-a/
 |Tipo|Necesario|
 |Salida|Gráfica|
 |Detalle|Generar un botón para mostrar la gráfica en donde se comparen los meses y los precios del tipo de producto gasolina extra|
-|Criterios de Aceptación|Dataset seleccionado y cargado. Usuario hace la petición con un clic en el botón|
+|Criterios de Aceptación|- Dataset seleccionado y cargado - Usuario hace la petición con un clic en el botón|
+
 
 |Nombre|Descripción|
 |:---:|:---:|
@@ -24,7 +25,8 @@ https://www.datos.gov.co/Econom-a-y-Finanzas/Precios-de-Combustibles-MinEnerg-a/
 |Tipo|Necesario|
 |Salida|Gráfica|
 |Detalle|Generar un botón para mostrar la gráfica en donde se comparen los meses y los precios del tipo de producto gasolina corriente|
-|Criterios de Aceptación|Dataset seleccionado y cargado. Usuario hace la petición con un clic en el botón|
+|Criterios de Aceptación|- Dataset seleccionado y cargado - Usuario hace la petición con un clic en el botón|
+
 
 |Nombre|Descripción|
 |:---:|:---:|
@@ -33,7 +35,8 @@ https://www.datos.gov.co/Econom-a-y-Finanzas/Precios-de-Combustibles-MinEnerg-a/
 |Tipo|Necesario|
 |Salida|Gráfica|
 |Detalle|Generar un botón para mostrar la gráfica en donde se comparen los meses y los precios del tipo de producto biodiesel|
-|Criterios de Aceptación|Dataset seleccionado y cargado. Usuario hace la petición con un clic en el botón|
+|Criterios de Aceptación|- Dataset seleccionado y cargado - Usuario hace la petición con un clic en el botón|
+
 
 |Nombre|Descripción|
 |:---:|:---:|
@@ -42,7 +45,8 @@ https://www.datos.gov.co/Econom-a-y-Finanzas/Precios-de-Combustibles-MinEnerg-a/
 |Tipo|Necesario|
 |Salida|Gráfica|
 |Detalle|Generar un botón para mostrar la gráfica en donde se comparen los meses y los precios del tipo de producto ACPM|
-|Criterios de Aceptación|Dataset seleccionado y cargado. Usuario hace la petición con un clic en el botón|
+|Criterios de Aceptación|- Dataset seleccionado y cargado - Usuario hace la petición con un clic en el botón|
+
 
 |Nombre|Descripción|
 |:---:|:---:|
@@ -51,7 +55,8 @@ https://www.datos.gov.co/Econom-a-y-Finanzas/Precios-de-Combustibles-MinEnerg-a/
 |Tipo|Necesario|
 |Salida|Gráfica|
 |Detalle|Generar un botón para mostrar la gráfica en donde se comparen los productos ofrecidos y los precios respectivos|
-|Criterios de Aceptación|Dataset seleccionado y cargado. Usuario hace la petición con un clic en el botón|
+|Criterios de Aceptación|- Dataset seleccionado y cargado - Usuario hace la petición con un clic en el botón|
+
 
 |Nombre|Descripción|
 |:---:|:---:|
@@ -60,7 +65,8 @@ https://www.datos.gov.co/Econom-a-y-Finanzas/Precios-de-Combustibles-MinEnerg-a/
 |Tipo|Necesario|
 |Salida|Tabla|
 |Detalle|Generar un botón para mostrar la tabla en donde se vea la lista de códigos de municipios disponibles en el dataset|
-|Criterios de Aceptación|Dataset seleccionado y cargado. Usuario hace la petición con un clic en el botón|
+|Criterios de Aceptación|- Dataset seleccionado y cargado - Usuario hace la petición con un clic en el botón|
+
 
 |Nombre|Descripción|
 |:---:|:---:|
@@ -69,7 +75,8 @@ https://www.datos.gov.co/Econom-a-y-Finanzas/Precios-de-Combustibles-MinEnerg-a/
 |Tipo|Necesario|
 |Salida|Tabla|
 |Detalle|Generar un botón para mostrar la tabla en donde se vea la lista de códigos de departamentos disponibles en el dataset|
-|Criterios de Aceptación|Dataset seleccionado y cargado. Usuario hace la petición con un clic en el botón|
+|Criterios de Aceptación|- Dataset seleccionado y cargado - Usuario hace la petición con un clic en el botón|
+
 
 |Nombre|Descripción|
 |:---:|:---:|
@@ -78,7 +85,8 @@ https://www.datos.gov.co/Econom-a-y-Finanzas/Precios-de-Combustibles-MinEnerg-a/
 |Tipo|Necesario|
 |Salida|Tabla|
 |Detalle|Generar un botón para mostrar la tabla en donde se vea la lista de códigos de departamentos disponibles en el dataset|
-|Criterios de Aceptación|Generar un botón para mostrar la tabla en donde se vea la lista de empresas funcionales y los productos que ofrece cada una de ellas|
+|Criterios de Aceptación|- Dataset seleccionado y cargado - Usuario hace la petición con un clic en el botón|
+
 
 |Nombre|Descripción|
 |:---:|:---:|
@@ -87,7 +95,8 @@ https://www.datos.gov.co/Econom-a-y-Finanzas/Precios-de-Combustibles-MinEnerg-a/
 |Tipo|Necesario|
 |Salida|Tabla|
 |Detalle|Generar un botón para mostrar la tabla en donde se vea la lista de empresas, en qué departamento funcionan, qué producto ofertan y en qué precio lo tienen|
-|Criterios de Aceptación|Generar un botón para mostrar la tabla en donde se vea la lista de empresas funcionales y los productos que ofrece cada una de ellas|
+|Criterios de Aceptación|- Dataset seleccionado y cargado - Usuario hace la petición con un clic en el botón|
+
 
 |Nombre|Descripción|
 |:---:|:---:|
@@ -96,12 +105,73 @@ https://www.datos.gov.co/Econom-a-y-Finanzas/Precios-de-Combustibles-MinEnerg-a/
 |Tipo|Opcional|
 |Salida|Página web|
 |Detalle|Generar un botón para mostrar el dataset seleccionado para el trabajo|
-|Criterios de Aceptación|- Una página web con dataset 
-- Usuario hace la petición con un clic en el botón|
+|Criterios de Aceptación|- Una página web con dataset - Usuario hace la petición con un clic en el botón|
 
 
 ## Historias de Usuario
 
+|Historia de Usuario| HU_01 |
+|:---:|:---:|
+|Nombre|Ver meses vs precios|
+|Actores|Usuario|
+|Descripción|
+|Como|usuario|
+|Quiero|dar clic en un boton|
+|Para|poder visualizar la gráfica de meses vs precios de productos seleccionados|
+
+
+
+|Historia de Usuario| HU_02 |
+|:---:|:---:|
+|Nombre|Ver precios vs productos|
+|Actores|Usuario|
+|Descripción|
+|Como|usuario|
+|Quiero|dar clic en un boton|
+|Para|poder visualizar la gráfica de precios vs productos vendidos|
+
+
+
+|Historia de Usuario| HU_03 |
+|:---:|:---:|
+|Nombre|Ver código|
+|Actores|Usuario|
+|Descripción|
+|Como|usuario|
+|Quiero|dar clic en un boton|
+|Para|poder visualizar la tabla de códigos de municipio o departamento|
+
+
+
+|Historia de Usuario| HU_04 |
+|:---:|:---:|
+|Nombre|Ver empresa - producto|
+|Actores|Usuario|
+|Descripción|
+|Como|usuario|
+|Quiero|dar clic en un boton|
+|Para|poder visualizar la tabla de productos vendidos por cada empresa con o sin su valor y lugar de venta|
+
+
+
 ## Metodología de Desarrollo 
 
+### Scrum 
+El cual es un marco de trabajo para desarrollo ágil de software que se ha expandido a otras industrias.
+Es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo y obtener el mejor resultado posible de proyectos, caracterizado por:
+
+  - Adoptar una estrategia de desarrollo incremental, en lugar de la planificación y ejecución completa del producto.
+  - Basar la calidad del resultado más en el conocimiento tácito de las personas en equipos auto organizados, que en la calidad de los procesos empleados.
+  - Solapar las diferentes fases del desarrollo, en lugar de realizar una tras otra en un ciclo secuencial o en cascada.
+
+
 ## Lenguaje de programación
+
+### Python - framework Flask
+
+
+## Extensiones y Librerias Usadas
+
+#### Pandas
+#### matplotlib
+#### random
