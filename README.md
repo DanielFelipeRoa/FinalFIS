@@ -175,3 +175,7 @@ Es un proceso en el que se aplican de manera regular un conjunto de buenas prác
 #### Pandas
 #### Matplotlib
 #### Random
+
+## Diagrama de Casos de uso
+
+## Diagrama de Clases
